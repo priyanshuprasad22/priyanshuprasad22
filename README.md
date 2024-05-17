@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshu406749" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu406749?logo=twitter&style=for-the-badge" alt="priyanshu406749" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Jetpack Compose**
+- 🌱 I’m currently learning **Flutter, Jetpack Compose, Node.js, Express.js**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android, Backend Development**
 
 - 📫 How to reach me **priyanshuprasad925@gmail.com**
 
